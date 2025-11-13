@@ -2,57 +2,59 @@
 
 Questa raccolta contiene **tutte le lezioni del corso di Calcolo delle Probabilità** (Prof. Nappo), tenute tra **settembre e dicembre 2024** presso il Dipartimento di Informatica dell’Università La Sapienza di Roma.
 
-Le lezioni sono redatte in **LaTeX** e organizzate in ordine cronologico, con formule, esempi, dimostrazioni e collegamenti agli esercizi dei fogli di lavoro.
+Le lezioni sono scritte in **LaTeX** e organizzate in ordine cronologico, con formule, esempi, dimostrazioni e collegamenti agli esercizi dei fogli.
 
 ---
+visita il link seguente per gli appunti. Sono apputni personali, possono contenere errori
+https://github.com/daromacarlo/Esercizi-probabilitaa-2023-2024/blob/main/2025-2026/Appunti%20Probabili%C3%A0%20DA%20ROMA.pdf
 
 ## 📑 Contenuti principali
 
-### 🔹 Fondamenti e assiomi della probabilità
+### Fondamenti e assiomi della probabilità
 - Spazi campionari, eventi e rappresentazione insiemistica  
 - Operazioni tra eventi e interpretazioni logiche  
 - Assiomi di Kolmogorov  
 - Spazi di probabilità finiti e numerabili  
 - Funzione di massa discreta e partizioni numerabili  
 
-### 🔹 Calcolo combinatorio e probabilità classiche
+### Calcolo combinatorio e probabilità classiche
 - Principio fondamentale del calcolo combinatorio  
 - Permutazioni, combinazioni, partizioni etichettate  
 - Formula di inclusione–esclusione  
 - Problema delle concordanze (derangements)  
 - Applicazioni al gioco del lotto e al problema del compleanno  
 
-### 🔹 Probabilità condizionata e indipendenza
+### Probabilità condizionata e indipendenza
 - Definizione e assiomi di $\mathbb{P}(\cdot \mid H)$  
 - Formule delle probabilità totali e composte  
 - Formula di Bayes (caso semplice e generale)  
 - Esempi tratti dal libro di **Ross, “Introduction to Probability” (3ª ed.)**  
 - Indipendenza tra eventi e tra partizioni  
 
-### 🔹 Correlazione, schemi di Bernoulli e probabilità binomiali
+### Correlazione, schemi di Bernoulli e probabilità binomiali
 - Correlazione positiva e negativa  
 - Schema di Bernoulli e distribuzione binomiale  
 - Applicazioni a esercizi sul Poker, estrazioni e occupazione di posti  
 - Proprietà di correlazione tra eventi complementari  
 
-### 🔹 Probabilità ipergeometriche e loro limite binomiale
+### Probabilità ipergeometriche e loro limite binomiale
 - Estrazioni senza reinserimento e distribuzione ipergeometrica  
 - Dimostrazione del limite $\mathrm{HGeo}(b, r, n) \to \mathrm{Bin}(n,p)$  
 - Esercizi di indipendenza e inclusione–esclusione  
 - Cenno al problema di Monty Hall  
 
-### 🔹 Variabili aleatorie e densità discrete
+### Variabili aleatorie e densità discrete
 - Definizione di variabile aleatoria e funzione di distribuzione  
 - Variabili notevoli: Bernoulli, Binomiale, Ipergeometrica  
 - Esempi con due dadi: somma, massimo, minimo  
 
-### 🔹 Valore atteso, varianza e covarianza
+### Valore atteso, varianza e covarianza
 - Proprietà di linearità del valore atteso  
 - Varianza e covarianza, indipendenza e additività  
 - Distribuzioni: Binomiale, Ipergeometrica, Poisson  
 - Legge dei grandi numeri e disuguaglianza di Chebyshev  
 
-### 🔹 Distribuzioni discrete e continue
+### Distribuzioni discrete e continue
 - Distribuzioni: Geometrica, Poisson, Esponenziale, Normale  
 - Modelli di occupazione (Bose–Einstein, Fermi–Dirac, Maxwell–Boltzmann)  
 - Teorema del Limite Centrale e approssimazione normale  
@@ -89,13 +91,6 @@ Il PDF raccoglie 32 lezioni numerate:
 
 Distribuito con licenza **Creative Commons BY-NC-SA 4.0**  
 È consentito l’uso e la modifica a fini didattici, con citazione dell’autore.
-
----
-
-### Suggerimenti
-- Compila il documento su [Overleaf](https://www.overleaf.com)  
-- Per aggiungere nuove lezioni, segui il formato `\section{Lezione del …}`  
-- Le immagini dei loghi (GitHub, LaTeX, Overleaf) vanno nella cartella `/images/`
 
 ---
 
