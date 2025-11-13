@@ -82,8 +82,6 @@ Il PDF raccoglie 32 lezioni numerate:
 
 - **[SN]** — Appunti di *Spizzichino & Nappo*, Calcolo delle Probabilità (2024)  
 - **Sheldon Ross**, *Introduction to Probability*, 3ª edizione  
-- **Foglio di esercizi**: `ex24-25_01Nappo.pdf`, `ex24-25_02Nappo.pdf`, `ex24-25_03Nappo.pdf`  
-- **Slide e note aggiuntive**: `SLIDE-ex24-25_03Nappo-SUGGERIMENTI.pdf`
 
 ---
 
