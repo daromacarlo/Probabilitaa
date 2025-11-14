@@ -5,8 +5,9 @@ Questa raccolta contiene **tutte le lezioni del corso di Calcolo delle Probabili
 Le lezioni sono scritte in **LaTeX** e organizzate in ordine cronologico, con formule, esempi, dimostrazioni e collegamenti agli esercizi dei fogli.
 
 ---
-visita il link seguente per gli appunti. Sono apputni personali, possono contenere errori
-https://github.com/daromacarlo/Esercizi-probabilitaa-2023-2024/blob/main/2025-2026/Appunti%20Probabili%C3%A0%20DA%20ROMA.pdf
+visita il link seguente per gli appunti. Sono appunti personali, possono contenere errori.
+
+https://github.com/daromacarlo/Probabilitaa/blob/main/2025-2026/Appunti_probabilit%C3%A0_DA_ROMA.pdf
 
 ## 📑 Contenuti principali
 
